@@ -48,8 +48,8 @@ function makeSound(key) {
         break;
 
         case "j":
-            var tom3 = new Audio("sounds/springy.mp3");
-            springy.play();
+            var tom3 = new Audio("sounds/tom3.mp3");
+            tom3.play();
         break;
 
         case "k":
